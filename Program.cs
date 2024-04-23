@@ -3,6 +3,8 @@
 public class Program{
     internal static Account accountObj=new Account();
     public static void Main(string[] args){
+
+        Console.WriteLine("Satya");
         string ano=Console.ReadLine();
         int bal=Convert.ToInt32(Console.ReadLine());
         int i=Convert.ToInt32(Console.ReadLine());
