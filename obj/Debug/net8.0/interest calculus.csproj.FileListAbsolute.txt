@@ -1,0 +1,14 @@
+C:\Users\ASATYASA\Desktop\interest calculus\bin\Debug\net8.0\interest calculus.exe
+C:\Users\ASATYASA\Desktop\interest calculus\bin\Debug\net8.0\interest calculus.deps.json
+C:\Users\ASATYASA\Desktop\interest calculus\bin\Debug\net8.0\interest calculus.runtimeconfig.json
+C:\Users\ASATYASA\Desktop\interest calculus\bin\Debug\net8.0\interest calculus.dll
+C:\Users\ASATYASA\Desktop\interest calculus\bin\Debug\net8.0\interest calculus.pdb
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.AssemblyInfoInputs.cache
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.AssemblyInfo.cs
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.csproj.CoreCompileInputs.cache
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.dll
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\refint\interest calculus.dll
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.pdb
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\interest calculus.genruntimeconfig.cache
+C:\Users\ASATYASA\Desktop\interest calculus\obj\Debug\net8.0\ref\interest calculus.dll
